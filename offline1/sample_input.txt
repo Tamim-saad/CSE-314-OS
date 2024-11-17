@@ -1,0 +1,11 @@
+true
+zip rar
+c cpp python sh
+100
+5
+/home/assignment
+2005001 2005121
+/home/assignment/expected_output.txt
+10
+/home/assignment/plagiarism.txt
+100
